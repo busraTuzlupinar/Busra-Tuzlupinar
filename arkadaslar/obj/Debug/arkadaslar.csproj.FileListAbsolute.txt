@@ -1,0 +1,119 @@
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\arkadaslar.dll.config
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\arkadaslar.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\arkadaslar.pdb
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Antlr3.Runtime.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\EntityFramework.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\EntityFramework.SqlServer.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Newtonsoft.Json.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Owin.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\PagedList.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\PagedList.Mvc.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\PagedList.Net.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.Helpers.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.Mvc.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.Optimization.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.Razor.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.WebPages.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\WebGrease.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\PagedList.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\PagedList.Mvc.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.Helpers.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.Mvc.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.Optimization.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.Razor.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.WebPages.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Newtonsoft.Json.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Antlr3.Runtime.pdb
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\EntityFramework.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\EntityFramework.SqlServer.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\obj\Debug\arkadaslar.dll
+C:\Users\Busra-Pc\documents\visual studio 2013\Projects\arkadaslar\arkadaslar\obj\Debug\arkadaslar.pdb
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\arkadaslar.dll.config
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\arkadaslar.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\arkadaslar.pdb
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Antlr3.Runtime.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\EntityFramework.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\EntityFramework.SqlServer.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Newtonsoft.Json.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Owin.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\PagedList.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\PagedList.Mvc.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\PagedList.Net.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.Helpers.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.Mvc.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.Optimization.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.Razor.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.WebPages.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\WebGrease.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\PagedList.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\PagedList.Mvc.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.Helpers.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.Mvc.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.Optimization.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.Razor.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.WebPages.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Newtonsoft.Json.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Antlr3.Runtime.pdb
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\EntityFramework.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\EntityFramework.SqlServer.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\obj\Debug\arkadaslar.csprojResolveAssemblyReference.cache
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\obj\Debug\arkadaslar.dll
+C:\Users\Busra-Pc\Desktop\arkadaslar\arkadaslar\obj\Debug\arkadaslar.pdb

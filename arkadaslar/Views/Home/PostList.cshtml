@@ -1,0 +1,29 @@
+﻿@using PagedList
+@using PagedList.Mvc
+
+@model IPagedList<arkadaslar.Models.Post>
+
+@{
+    <div style="border:1px solid black;padding:25px;text-align:center;">
+        <h2>Son Beş Makale</h2>
+       
+           
+        @foreach (var item in Model)
+        {
+            <div style="border:1px solid black">
+
+                <h3>@item.Title</h3>
+                <p>@item.Context</p>
+                <p>@item.CreatedBy</p>
+                <strong>Date : @item.PostDateTime </strong>
+
+                <div class="pagedList">
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), PagedListRenderOptions.PageNumbersOnly)
+                </div>
+            </div>
+            
+            
+        }
+    </div>
+}
+

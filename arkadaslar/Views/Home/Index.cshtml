@@ -1,0 +1,31 @@
+﻿@model PagedList.IPagedList<arkadaslar.Models.Post>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@{
+
+    <div style="border:1px solid black;padding:25px;">
+        <h1 style="text-align:center">All Post </h1>
+
+        @foreach (var item in Model)
+        {
+            <div style="border:1px solid black; padding:15px">
+                <h3 style="text-align:center">@item.Title</h3>
+                <p>
+                    @item.preview
+                    @Html.ActionLink(" ...see more", "Details", new { id = item.ID })
+                </p>
+                <strong> Author : @item.CreatedBy </strong>
+            </div>
+        }
+    </div>
+}
+
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
